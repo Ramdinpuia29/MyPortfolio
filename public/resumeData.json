@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name": "Ramdinpuia",
+    "occupation": "Freelance and Full Stack Web Developer",
+    "description": "",
+    "image": "caricature.jpg",
+    "bio": "My name is Lalramdinpuia, Freelance web developer. Currently I'm studying Bachelor of Computer Science and Engineering in Government College of Engineering, Tirunelveli.",
+    "email": "rdpahmar@gmail.com",
+    "phone": "+91 9615085838",
+    "address": {
+      "street": "V-15, Bazar Veng",
+      "city": "Lunglei,",
+      "state": "MIZORAM",
+      "zip": "796701"
+    },
+    "website": "http://www.rdpprogramming.com",
+    "resumedownload": "http://rdpprogramming.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ramdinpuia1",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lal-ramdinpuia-795b5b1a4/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ramdinpuia29/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/Ramdinpuia29",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Baptist Higher Secondary School",
+        "degree": "10th and 12th(Computer Science)",
+        "graduated": "May 2018",
+        "description": "Graduated 10th and 12th in First class division"
+      },
+      {
+        "school": "Government College of Engineering, Tirunelveli",
+        "degree": "Bachelor in Computer Science and Engineering (Ongoing)",
+        "graduated": "May 2022",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelance Programmer",
+        "title": "Owner of RDP Programming",
+        "years": "2020 - Present",
+        "description": "Accepting any kinds of Android, IOS or Web Application projects"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "ExpressJs",
+        "level": "95%"
+      },
+      {
+        "name": "Django",
+        "level": "60%"
+      },
+      {
+        "name": "Laravel",
+        "level": "55%"
+      },
+      {
+        "name": "React Native",
+        "level": "72%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Be anxious for nothing, but in everything by prayer and supplication, with thanksgiving, let your requests be made known to God; and the peace of God, which surpasses all understanding, will guard your hearts and minds through Christ Jesus.",
+        "user": "Phillipians 4 : 6 - 7"
+      }
+    ]
+  }
+}

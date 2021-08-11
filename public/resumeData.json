@@ -2,7 +2,7 @@
   "main": {
     "name": "Lalramdinpuia",
     "image": "11 (2).jpg",
-    "bio": "My name is Lalramdinpuia. I'm studying Bachelor of Computer Science and Engineering in Government College of Engineering, Tirunelveli.",
+    "bio": "My name is Lalramdinpuia. I'm studying Bachelor of Engineering (Computer Science and Engineering) in Government College of Engineering, Tirunelveli.",
     "email": "rdpahmar@gmail.com",
     "phone": "+91 9615085838",
     "address": {
@@ -11,8 +11,8 @@
       "state": "MIZORAM",
       "zip": "796701"
     },
-    "website": "http://www.rdpprogramming.com",
-    "resumedownload": "http://rdpprogramming.com",
+    "website": "https://www.ramdinpuia.tech",
+    "resumedownload": "https://ramdinpuia.tech",
     "social": [
       {
         "name": "facebook",
@@ -40,14 +40,14 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "Baptist Higher Secondary School",
-        "degree": "10th and 12th(Computer Science)",
+        "school": "Baptist Higher Secondary School, Serkawn",
+        "degree": "10th and 12th (Computer Science)",
         "graduated": "May 2018",
-        "description": "Graduated 10th and 12th in First class division"
+        "description": "Passed 10th and 12th in First class division"
       },
       {
         "school": "Government College of Engineering, Tirunelveli",
-        "degree": "Bachelor in Computer Science and Engineering (Ongoing)",
+        "degree": "Bachelor of Engineering in Computer Science and Engineering (Ongoing)",
         "graduated": "May 2022",
         "description": ""
       }

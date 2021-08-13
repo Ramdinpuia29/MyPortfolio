@@ -33,6 +33,11 @@
         "name": "github",
         "url": "http://github.com/Ramdinpuia29",
         "className": "fa fa-github"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCt86nkKNNl-ZaBXNTqvIliw",
+        "className": "fa fa-youtube-play"
       }
     ]
   },
